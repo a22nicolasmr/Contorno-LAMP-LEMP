@@ -26,3 +26,5 @@ Este proyecto ofrece dos entornos de desarrollo funcionales para Prestashop util
 
 - Ambos entornos han sido comprobados y funcionan correctamente.
 - Se envían sin la instalación previa de Prestashop debido a un error de permisos que ocurría tras comprimir la carpeta con los entornos ya instalados.
+- Para probar la funcionalidad del proyecto hay que poner la ruta test.lan en el navegador.
+- Funciona tanto para http como https.
